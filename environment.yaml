@@ -1,0 +1,12 @@
+# This is just a template
+
+name: adios2-howto-nompi-python
+
+channels:
+  - conda-forge
+  - williamfgc
+
+dependencies:
+  - matplotlib
+  - numpy
+  - adios2-nompi-minimal
