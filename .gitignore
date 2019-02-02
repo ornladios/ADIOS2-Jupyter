@@ -1,0 +1,7 @@
+notebooks/.*
+*.bp*
+
+.project
+.cproject
+.settings/
+

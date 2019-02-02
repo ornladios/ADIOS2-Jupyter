@@ -1,0 +1,10 @@
+name: adios2-python-nompi
+
+channels:
+  - conda-forge
+  - williamfgc
+
+dependencies:
+  - matplotlib
+  - numpy
+  - adios2-nompi
