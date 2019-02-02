@@ -1,0 +1,13 @@
+name: adios2-python-mpi
+
+channels:
+  - conda-forge
+  - williamfgc
+
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - openmpi
+  - mpi4py
+  - adios2-openmpi
