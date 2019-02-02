@@ -1,0 +1,11 @@
+name: adios2-cxx
+
+channels:
+  - williamfgc
+  - conda-forge
+
+dependencies:
+  - xeus-cling
+  - openmpi
+  - adios2-openmpi
+  
