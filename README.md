@@ -1,2 +1,8 @@
-# ADIOS2-howto-nompi-Python
-My Binder Jupyter-Notebook collection of how to write and read example using ADIOS2 no-MPI Python bindings
+# ADIOS2-Jupyter
+ADIOS2 how-to examples on [Jupyter Notebooks](https://jupyter.org/) running online on [My Binder](https://mybinder.org/)
+Each branch maps to a target environment.yaml from anaconda:
+
+Python
+Python-nompi
+CXX11
+CXX11-nompi
