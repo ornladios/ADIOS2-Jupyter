@@ -1,4 +1,4 @@
-name: adios2-howto-nompi-python
+name: adios2-python-mpi
 
 channels:
   - conda-forge
@@ -7,4 +7,6 @@ channels:
 dependencies:
   - matplotlib
   - numpy
-  - adios2-nompi-minimal
+  - openmpi
+  - mpi4py
+  - adios2-openmpi
