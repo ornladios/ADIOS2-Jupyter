@@ -1,10 +1,11 @@
-name: adios2-howto-nompi-python
+name: adios2-cxx11-mpi
 
 channels:
   - conda-forge
   - williamfgc
 
 dependencies:
-  - matplotlib
-  - numpy
-  - adios2-nompi-minimal
+  - xeus-cling
+  - openmpi
+  - adios2-openmpi
+  
