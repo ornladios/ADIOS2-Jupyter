@@ -5,6 +5,7 @@ channels:
   - williamfgc
 
 dependencies:
+  - python
   - matplotlib
   - numpy
   - openmpi
