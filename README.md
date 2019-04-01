@@ -3,3 +3,4 @@
 
 ADIOS2 how-to examples on [Jupyter Notebooks](https://jupyter.org/) running online on My Binder [click here](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/python-nompi)
 
+Credits: @williamfgc @m-kim
