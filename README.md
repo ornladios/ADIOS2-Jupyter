@@ -4,7 +4,7 @@
 ADIOS2 how-to examples on [Jupyter Notebooks](https://jupyter.org/) running online on MyBinder [click here](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/python-mpi)
 
 Credits:
-@williamfgc
+@williamfgc 
 @m-kim
 
 
