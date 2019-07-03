@@ -1,8 +1,8 @@
-name: adios2-cxx11-mpi
+name: adios2-cxx
 
 channels:
-  - conda-forge
   - williamfgc
+  - conda-forge
 
 dependencies:
   - xeus-cling
