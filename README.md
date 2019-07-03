@@ -5,13 +5,14 @@ Notebooks include examples for the full (low-level) and simplified (high-level) 
 
 Each branch maps to a target kernel environment.yml from anaconda, to access MyBinder click here for each environment and access the "notebooks" directory:
 
-- [Python-MPI](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/python-mpi) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/python-mpi)
+- [Python notebooks](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/python) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/python)   
+
+- [C++11 notebooks](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/cxx11) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/cxx11)
 
 
-- [Python-NoMPI](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/python-nompi) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ornladios/ADIOS2-Jupyter.git/python-nompi)   
-
-
-Note: due to a matplotlib warning run twice the first time
+Notes: 
+- due to a matplotlib warning run Python notebooks twice the very first time
+- reset C++11 xeus-cling kernels with the clean output option for a clean run every time
 
 Credits: @williamfgc @m-kim
 
